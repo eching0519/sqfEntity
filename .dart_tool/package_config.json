@@ -59,7 +59,7 @@
       "name": "build_runner",
       "rootUri": "file:///C:/Users/huseyin.tokpunar/AppData/Local/Pub/Cache/hosted/pub.dev/build_runner-2.4.11",
       "packageUri": "lib/",
-      "languageVersion": "3.4"
+      "languageVersion": "3.5"
     },
     {
       "name": "build_runner_core",
@@ -125,13 +125,13 @@
       "name": "coverage",
       "rootUri": "file:///C:/Users/huseyin.tokpunar/AppData/Local/Pub/Cache/hosted/pub.dev/coverage-1.8.0",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.4"
     },
     {
       "name": "crypto",
       "rootUri": "file:///C:/Users/huseyin.tokpunar/AppData/Local/Pub/Cache/hosted/pub.dev/crypto-3.0.3",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.4"
     },
     {
       "name": "dart_style",
@@ -173,7 +173,7 @@
       "name": "graphs",
       "rootUri": "file:///C:/Users/huseyin.tokpunar/AppData/Local/Pub/Cache/hosted/pub.dev/graphs-2.3.1",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.4"
     },
     {
       "name": "http_multi_server",
@@ -293,7 +293,7 @@
       "name": "shelf_static",
       "rootUri": "file:///C:/Users/huseyin.tokpunar/AppData/Local/Pub/Cache/hosted/pub.dev/shelf_static-1.1.2",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.3"
     },
     {
       "name": "shelf_web_socket",
@@ -317,7 +317,7 @@
       "name": "source_map_stack_trace",
       "rootUri": "file:///C:/Users/huseyin.tokpunar/AppData/Local/Pub/Cache/hosted/pub.dev/source_map_stack_trace-2.1.1",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.3"
     },
     {
       "name": "source_maps",
@@ -359,7 +359,7 @@
       "name": "string_scanner",
       "rootUri": "file:///C:/Users/huseyin.tokpunar/AppData/Local/Pub/Cache/hosted/pub.dev/string_scanner-1.2.0",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.1"
     },
     {
       "name": "term_glyph",

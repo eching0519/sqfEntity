@@ -812,7 +812,7 @@ List<String> checkTableIndexes(SqfEntityTableBase table) {
     }
 
     if (indexName != null) {
-      addedIndexes.addAll((columns as Iterable<String>));
+      addedIndexes.addAll(columns);
       alterTableQuery.add(
           'CREATE ${isUnique ? 'UNIQUE ' : ''}INDEX IF NOT EXISTS $indexName ON ${table.tableName} (${columns.join(',')})');
     }
